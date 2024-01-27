@@ -38,9 +38,7 @@ If you're using these scripts for academic purposes, please ensure to reference 
 
 Your contributions are welcome! If you find any bugs, have suggestions for optimization, or want to propose new algorithms, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE.md).
 
 ---
 
